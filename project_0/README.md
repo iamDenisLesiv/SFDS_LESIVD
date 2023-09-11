@@ -11,7 +11,7 @@
 ### Project description    
 Guess number with minimal tries.
 
-:arrow_up:[up](_)
+:arrow_up:[up](Table of contents)
 
 
 ### What the case is?    

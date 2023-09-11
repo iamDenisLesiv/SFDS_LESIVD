@@ -53,3 +53,5 @@ Create a programm to guess random number using less than 20 tries
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+
+[Link to .csv file](https://disk.yandex.ru/d/H40xcJjNWpFliQ)

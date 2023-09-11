@@ -54,7 +54,7 @@ def score_game(random_predict) -> int:
         count_ls.append(random_predict(number))
 
     score = int(np.mean(count_ls))
-    print(f"Your algorythm finds number for {score} in average")
+    print(f"Your algorythm finds the number in {score} attempts in average")
     return score
 
 

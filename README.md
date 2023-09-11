@@ -1,6 +1,6 @@
 # My Data Science projects
 
-From the [Skill Factory Data Science course](https://skillfactory.ru/rata-scientist).
+From the [Skill Factory Data Science course](https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+DSPR-2.0+14JULY2021/home).
 
 ## Projects
 

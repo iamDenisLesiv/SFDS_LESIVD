@@ -1,7 +1,7 @@
 # Project 0. Guess number
 
 ## Contents  
-[1. Project description](.README.md#Project_description)  
+[1. Project description](README.md#Project_description)  
 [2. What the case is?](.README.md#Какой-кейс-решаем)  
 [3. Brief](.README.md#Краткая-информация-о-данных)  
 [4. Stages](.README.md#Этапы-работы-над-проектом)  

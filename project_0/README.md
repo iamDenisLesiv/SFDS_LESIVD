@@ -11,7 +11,7 @@
 ### Project description    
 Guess number with minimal tries.
 
-:arrow_up:[up](Table of contents)
+:arrow_up:[up](.README.md##Table_of_contents) 
 
 
 ### What the case is?    

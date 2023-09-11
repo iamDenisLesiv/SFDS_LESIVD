@@ -4,6 +4,6 @@ From the [Skill Factory Data Science course](https://skillfactory.ru/rata-scient
 
 ## Projects
 
-* [Project 0. Game: Guess number]()
+* [Project 0. Game: Guess number](https://github.com/iamDenisLesiv/SFDS_LESIVD/tree/main/project_0)
 * [Project 1. _____](__)
 * [Project 2. _____](__)

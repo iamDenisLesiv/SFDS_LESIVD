@@ -1,6 +1,6 @@
 # Project 0. Guess number
 
-## Оглавление  
+## Table of contents  
 [1. Project description](.README.md#Описание-проекта)  
 [2. What the case is?](.README.md#Какой-кейс-решаем)  
 [3. Brief](.README.md#Краткая-информация-о-данных)  
@@ -31,25 +31,25 @@ Create a programm to guess random number in minimal tries
 ### Brief
 ....
   
-:arrow_up:[up](.README.md#Оглавление)
+:arrow_up:[up](.README.md#Table of contents)
 
 
 ### Stages  
 ....
 
-:arrow_up:[up](.README.md#Оглавление)
+:arrow_up:[up](.README.md#Table of contents)
 
 
 ### Results:  
 ....
 
-:arrow_up:[up](.README.md#Оглавление)
+:arrow_up:[up](.README.md#Table of contents)
 
 
 ### Conclusions:  
 ....
 
-:arrow_up:[up](.README.md#Оглавление)
+:arrow_up:[up](.README.md#Table of contents)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами

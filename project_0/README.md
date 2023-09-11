@@ -11,7 +11,7 @@
 ### Project description    
 Guess number with minimal tries.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[up](_)
 
 
 ### What the case is?    
@@ -31,25 +31,25 @@ Create a programm to guess random number in minimal tries
 ### Brief
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[up](.README.md#Оглавление)
 
 
 ### Stages  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[up](.README.md#Оглавление)
 
 
 ### Results:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[up](.README.md#Оглавление)
 
 
 ### Conclusions:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[up](.README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами

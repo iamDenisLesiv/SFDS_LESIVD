@@ -15,7 +15,7 @@ Guess number with minimal tries.
 
 
 ### Task?
-Create a programm to guess random number in minimal tries
+Create a programm to guess random number using less than 20 tries
 
 **Rules:**  
 - Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».

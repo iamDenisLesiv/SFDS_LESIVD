@@ -8,7 +8,7 @@
 [5. Results](.README.md#Результат)    
 [6. Cunclusions](.README.md#Выводы) 
 
-### Project_description    
+### Project description    
 Guess number with minimal tries.
 
 :arrow_up:[up](.README.md#Contents) 

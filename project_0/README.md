@@ -1,6 +1,6 @@
 # Project 0. Guess number
 
-## Table of contents  
+## Contents  
 [1. Project description](.README.md#Описание-проекта)  
 [2. What the case is?](.README.md#Какой-кейс-решаем)  
 [3. Brief](.README.md#Краткая-информация-о-данных)  
@@ -11,7 +11,7 @@
 ### Project description    
 Guess number with minimal tries.
 
-:arrow_up:[up](.README.md##Table_of_contents) 
+:arrow_up:[up](.README.md#Contents) 
 
 
 ### What the case is?    

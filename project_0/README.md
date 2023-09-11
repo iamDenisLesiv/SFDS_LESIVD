@@ -1,20 +1,20 @@
 # Project 0. Guess number
 
 ## Contents  
-[1. Project description](README.md#Project_description)  
-[2. What the case is?](.README.md#Какой-кейс-решаем)  
-[3. Brief](.README.md#Краткая-информация-о-данных)  
-[4. Stages](.README.md#Этапы-работы-над-проектом)  
-[5. Results](.README.md#Результат)    
-[6. Cunclusions](.README.md#Выводы) 
+[1. Project description](README.md#Description)  
+[2. What the case is?](README.md#Task)  
+[3. Brief](README.md#Brief)  
+[4. Stages](README.md#Stages)  
+[5. Results](README.md#Results)    
+[6. Cunclusions](README.md#Conclusions) 
 
-### Project description    
+### Description    
 Guess number with minimal tries.
 
-:arrow_up:[up](.README.md#Contents) 
+:arrow_up:[up](README.md#Contents) 
 
 
-### What the case is?    
+### Task?
 Create a programm to guess random number in minimal tries
 
 **Rules:**  
@@ -31,25 +31,25 @@ Create a programm to guess random number in minimal tries
 ### Brief
 ....
   
-:arrow_up:[up](.README.md#Table of contents)
+:arrow_up:[up](README.md#Contents)
 
 
-### Stages  
+### Stages
 ....
 
-:arrow_up:[up](.README.md#Table of contents)
+:arrow_up:[up](README.md#Contents)
 
 
-### Results:  
+### Results:
 ....
 
-:arrow_up:[up](.README.md#Table of contents)
+:arrow_up:[up](README.md#Contents)
 
 
-### Conclusions:  
+### Conclusions:
 ....
 
-:arrow_up:[up](.README.md#Table of contents)
+:arrow_up:[up](README.md#Contents)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами

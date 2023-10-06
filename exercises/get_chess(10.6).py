@@ -1,7 +1,10 @@
 import numpy as np
+
 def get_chess(a):
-    
-    matrix = np.zeros((a,a))
-    #numpy.zeros(shape, dtype=float, order='C', *, like=None)
-    
-#print(get_chess(4))
+    arr = np.zeros((a, a))
+    arr[1::2, ::2] = 1
+    arr[::2, 1::2] = 1
+    return arr
+    print(arr)
+
+print(get_chess(3))

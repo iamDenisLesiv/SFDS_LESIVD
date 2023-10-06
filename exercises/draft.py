@@ -1,14 +1,9 @@
 import numpy as np
-a = 9
-b = 8
-matrix = np.zeros((a, b))
-#print(matrix)
-#print(matrix[::2])
-#matrix1 = matrix[::2] +=1
-#print(matrix1)
 
+def get_chess(a):
+    arr = np.zeros((a, a))
+    arr[1::2, ::2] = 1
+    arr[::2, 1::2] = 1
+    return arr
 
-x = np.zeros((a, a))
-print(x)
-x[:, 1::2] = [1]
-print(x)
+print(get_chess(5))

@@ -1,10 +1,10 @@
 import numpy as np
 
 def get_chess(a):
-    arr = np.zeros((a, a))
-    arr[1::2, ::2] = 1
-    arr[::2, 1::2] = 1
-    return arr
-    print(arr)
+    matrix = np.zeros((a, a))
+    matrix[1::2, ::2] = 1
+    matrix[::2, 1::2] = 1
+    return matrix
+    print(matrix)
 
-print(get_chess(3))
+print(get_chess(4))

@@ -1,9 +1,4 @@
 import numpy as np
 
-def get_chess(a):
-    arr = np.zeros((a, a))
-    arr[1::2, ::2] = 1
-    arr[::2, 1::2] = 1
-    return arr
-
-print(get_chess(5))
+simplelist = [19, 242, 14, 152, 142, 1000]
+print(np.mean(simplelist))
